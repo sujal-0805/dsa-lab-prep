@@ -86,5 +86,5 @@ void replaceWord(char s[], char w[], char res[], char rep[])
             return 0;
         }
         replaceWord(s,w,res,rep);
-        cout << "The new Sentence is :" << res << endl;
+        cout << "The New Sentence is :" << res << endl;
     }

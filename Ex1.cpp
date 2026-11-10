@@ -53,6 +53,7 @@ using namespace std;
     cout << "Succesfully deleted at position" << endl;
     
  }
+ 
  int main ()
  {
     int choice;
